@@ -2,6 +2,7 @@ tqdm
 pandas
 tensorflow
 PyYAML
+tensorflow
 
 ### local packages-
 -e .# # << uncomment this to install from setup.py
